@@ -5,6 +5,7 @@ transformers==4.36.2
 accelerate
 safetensors
 einops
+gradio==3.45.0
 onnxruntime-gpu
 spaces==0.19.4
 omegaconf
